@@ -1,0 +1,26 @@
+{
+  "name": "9-treefarm",
+  "version": "1.0.0",
+  "description": "nashville software school milestone 3 exercise 9: tree farm (prototypal inheritance)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeganCFord/NSS-MD-9-TreeFarm.git"
+  },
+  "author": "megan ford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MeganCFord/NSS-MD-9-TreeFarm/issues"
+  },
+  "homepage": "https://github.com/MeganCFord/NSS-MD-9-TreeFarm#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-watch": "^4.3.5",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.0"
+  }
+}
