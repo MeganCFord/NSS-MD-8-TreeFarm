@@ -21,7 +21,7 @@ Any/all images are for educational/example purposes only and are all rights rese
 
 
 
-NSS Front-End Milestone 3 (Modern Developer) Exercise 9: 
+NSS Front-End Milestone 3 (Modern Developer) Exercise 8: 
 
 
 [Requirements For Project](https://github.com/nashville-software-school/front-end-milestones/blob/master/4-modern-javascript-developer/exercises/MJ_PROTOTYPAL_TREE_FARM.md)
@@ -31,7 +31,7 @@ NSS Front-End Milestone 3 (Modern Developer) Exercise 9:
 
 
 ``` 
-git clone https://github.com/MeganCFord/NSS-MD-9-TreeFarm.git
+git clone https://github.com/MeganCFord/NSS-MD-8-TreeFarm.git
 cd 9-treefarm
 npm init
 open index.html
